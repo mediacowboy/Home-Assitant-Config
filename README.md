@@ -8,3 +8,4 @@
 | Sengled Soft White Light Bulbs | 30 | Zigebee |
 | DOGAIN Zigbee Smart Plugs | 6 | Zigbee |
 | GoControl Z-Wave Battery-Powered Smart Thermostat | 1 | Z-Wave |
+| GE Z-Wave Plus Hinge Pin Door Sensor| 2 | Z-Wave |
