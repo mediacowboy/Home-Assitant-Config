@@ -3,6 +3,7 @@
 ## Devices Connected
 | Device Name | Amount | Protocol|
 | ------- | ------| -----|
+| GoControl HUSBZB-1 USB Hub | 1 | USB|
 | Sengled Smart Plugs | 2 | Zigebee |
 | Sengled Color Changing Light Build | 5 | Zigbee|
 | Sengled Soft White Light Bulbs | 30 | Zigebee |
